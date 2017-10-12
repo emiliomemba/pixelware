@@ -1,0 +1,5 @@
+weather\pixelware\spring\mvc\configuration\ComponentesWeb.class
+weather\pixelware\spring\mvc\model\Current.class
+weather\pixelware\spring\mvc\configuration\FrontController.class
+weather\pixelware\spring\mvc\configuration\ComponentesNoWeb.class
+weather\pixelware\spring\mvc\model\Location.class

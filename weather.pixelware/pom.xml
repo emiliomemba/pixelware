@@ -20,6 +20,8 @@
 		<servlet.api>3.1.0</servlet.api>
 		<junit.version>4.12</junit.version>
 		<dbcp.version>2.1</dbcp.version>
+		<jackson.version>2.4.2</jackson.version>
+		<failOnMissingWebXml>false</failOnMissingWebXml>
 	</properties>
 
 	<dependencies>
@@ -131,7 +133,25 @@
 			<scope>provided</scope>
 		</dependency>
 
+		<!-- JSon -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-core</artifactId>
+			<version>${jackson.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>${jackson.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-annotations</artifactId>
+			<version>${jackson.version}</version>
+		</dependency>
+
 	</dependencies>
+
 	<build>
 		<finalName>weather.pixelware</finalName>
 
