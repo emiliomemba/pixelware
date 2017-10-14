@@ -23,7 +23,7 @@ import org.springframework.web.servlet.view.JstlView;
  * @Repository y @Controller. Equivalente al elemento xml
  * <context:component-scan base-packages=""/>
  */
-@ComponentScan(basePackages = { "com.pixelware" })
+@ComponentScan(basePackages = { "com.pixelware.spring" })
 public class WebConfig extends WebMvcConfigurerAdapter {
 
 	/*

@@ -12,6 +12,7 @@ public class WebAppInitializer extends AbstractAnnotationConfigDispatcherServlet
 	 */
 	@Override
 	protected Class<?>[] getRootConfigClasses() {
+		System.out.println("\n\nCargada App\n\n");
 		return new Class<?>[] {};
 	}
 
