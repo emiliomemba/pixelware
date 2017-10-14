@@ -144,6 +144,15 @@
 		<finalName>weather.pixelware</finalName>
 
 		<plugins>
+		<!-- Heroku -->
+			<plugin>
+				<groupId>com.heroku.sdk</groupId>
+				<artifactId>heroku-maven-plugin</artifactId>
+				<version>0.5.1</version>
+				<configuration>
+					<appName> NOMBRE DE LA APLICACION   </appName>
+				</configuration>
+			</plugin>
 			<!-- Para Maven -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
