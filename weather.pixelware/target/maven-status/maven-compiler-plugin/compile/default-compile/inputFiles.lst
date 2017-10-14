@@ -1,3 +1,9 @@
-C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\conf\WebConfig.java
-C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\web\WebController.java
-C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\conf\WebAppInitializer.java
+C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\config\FrontController.java
+C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\config\ComponentesWeb.java
+C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\web\ControladorLogin.java
+C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\config\ComponentesNoWeb.java
+C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\sevicios\UsuarioDAOImpl.java
+C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\sevicios\UsuarioDAO.java
+C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\web\ControladorRegistro.java
+C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\modelo\Login.java
+C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\modelo\Usuario.java

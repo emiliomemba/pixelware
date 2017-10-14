@@ -1,3 +1,10 @@
-com\pixelware\spring\web\WebController.class
-com\pixelware\spring\conf\WebAppInitializer.class
-com\pixelware\spring\conf\WebConfig.class
+com\pixelware\spring\web\ControladorRegistro.class
+com\pixelware\spring\modelo\Login.class
+com\pixelware\spring\config\ComponentesWeb.class
+com\pixelware\spring\sevicios\UsuarioDAOImpl.class
+com\pixelware\spring\config\ComponentesNoWeb.class
+com\pixelware\spring\modelo\Usuario.class
+com\pixelware\spring\config\FrontController.class
+com\pixelware\spring\sevicios\UsuarioMapper.class
+com\pixelware\spring\sevicios\UsuarioDAO.class
+com\pixelware\spring\web\ControladorLogin.class

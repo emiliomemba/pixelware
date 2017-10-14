@@ -20,12 +20,10 @@
 		<servlet.api>3.1.0</servlet.api>
 		<junit.version>4.12</junit.version>
 		<dbcp.version>2.1</dbcp.version>
-		<jackson.version>2.4.2</jackson.version>
-		<failOnMissingWebXml>false</failOnMissingWebXml>
+		<mysql.connector.version>5.1.9</mysql.connector.version>
 	</properties>
 
 	<dependencies>
-
 
 		<!-- JUnit (Pruebas unitarias de test) -->
 		<dependency>
@@ -133,21 +131,11 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<!-- JSon -->
+		<!-- MySQL database driver -->
 		<dependency>
-			<groupId>com.fasterxml.jackson.core</groupId>
-			<artifactId>jackson-core</artifactId>
-			<version>${jackson.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>com.fasterxml.jackson.core</groupId>
-			<artifactId>jackson-databind</artifactId>
-			<version>${jackson.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>com.fasterxml.jackson.core</groupId>
-			<artifactId>jackson-annotations</artifactId>
-			<version>${jackson.version}</version>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>${mysql.connector.version}</version>
 		</dependency>
 
 	</dependencies>

@@ -1,4 +1,4 @@
-package com.pixelware.spring.conf;
+package com.pixelware.spring.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
