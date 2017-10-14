@@ -1,9 +1,3 @@
-C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\weather\pixelware\spring\mvc\configuration\ComponentesWeb.java
-C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\weather\pixelware\spring\mvc\configuration\ComponentesNoWeb.java
-C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\weather\pixelware\spring\mvc\model\Location.java
-C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\weather\pixelware\spring\mvc\web\RESTController.java
-C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\weather\pixelware\spring\mvc\configuration\FrontController.java
-C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\weather\pixelware\spring\mvc\sevices\RepositoryService.java
-C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\weather\pixelware\spring\mvc\web\FormWeather.java
-C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\weather\pixelware\spring\mvc\model\Current.java
-C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\weather\pixelware\spring\mvc\sevices\RepositoryServiceImpl.java
+C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\conf\WebConfig.java
+C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\web\WebController.java
+C:\Users\Toshiba\Documents\GitHub\pixelware\weather.pixelware\src\main\java\com\pixelware\spring\conf\WebAppInitializer.java
